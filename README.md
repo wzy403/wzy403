@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Personal Todolist project](https://github.com/UofT-Box/UofT-Edu-Task)
 
-- 🌱 I’m currently learning **CSC207, CSC236, MAT232, and STA256**
+- 🌱 I’m currently learning **CSC207, and MAT232**
 
 - 📫 How to reach me **zhengyu.wang0108@gmail.com**
 

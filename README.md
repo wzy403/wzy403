@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhengyu (Joey) Wang</h1>
 <h3 align="center">A second-year CS specialist + STA major + MAT minor student at the University of Toronto.</h3>
 
-- 🔭 I’m currently working on a [Personal Todolist project](https://github.com/UofT-Box/UofT-Edu-Task)
+- 🔭 I’m currently working on a [CSC207 Campus Forum Project](https://github.com/zzz403/CSC207-campus-forum)
 
 - 🌱 I’m currently learning **CSC207, and MAT232**
 

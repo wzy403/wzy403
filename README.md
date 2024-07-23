@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CSC207, and MAT232**
 
-- 📫 How to reach me **zhengyu.wang0108@gmail.com**
+- 📫 How to reach me **zhengyu.wang@wzy403.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

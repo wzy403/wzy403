@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zhengyu (Joey) Wang</h1>
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=25&lines=%E6%AD%A3%E5%9B%A0%E4%B8%BA%E6%98%AF%E5%BA%9F%E7%89%A9%EF%BC%8C%E6%89%80%E4%BB%A5%E6%89%8D%E8%A6%81%E6%AF%94%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%A6%81%E5%8A%AA%E5%8A%9B%E6%B4%BB%E7%9D%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=25&pause=1000&width=550&lines=%E6%AD%A3%E5%9B%A0%E4%B8%BA%E6%98%AF%E5%BA%9F%E7%89%A9%EF%BC%8C%E6%89%80%E4%BB%A5%E6%89%8D%E8%A6%81%E6%AF%94%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E5%8A%AA%E5%8A%9B%E7%9A%84%E6%B4%BB%E7%9D%80" alt="Typing SVG" />
 </div>
 <div align="left">
   <img src="https://moe-counter.glitch.me/get/@wzy403?theme=rule34" alt="View counter" />

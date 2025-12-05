@@ -16,6 +16,6 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wzy403&show_icons=true&locale=en&layout=compact" alt="wzy403" /></p>
+<p><img align="left" src="https://github-readme-stats-r8lq.vercel.app/api/top-langs?username=wzy403&show_icons=true&locale=en&layout=compact" alt="wzy403" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wzy403&show_icons=true&locale=en" alt="wzy403" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-r8lq.vercel.app/api?username=wzy403&show_icons=true&locale=en" alt="wzy403" /></p>
